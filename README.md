@@ -1,2 +1,3 @@
 # このリポジトリについて
-* 小説のリポジトリです。
+* This is a NovelRepository.
+* In Writing.
